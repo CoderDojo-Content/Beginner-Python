@@ -1,0 +1,17 @@
+{
+    "title":"Beginner Python",
+    "language":"en",
+    "variables":{
+        "seriesTitle": "Beginner Python"
+    },
+    "direction":"ltr",
+    "pdf":{
+        "paperSize":"a4",
+        "margin":{
+            "top": 100,
+            "left": 0,
+            "right": 0,
+            "bottom": 35
+        }
+    }
+}
