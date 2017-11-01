@@ -12,7 +12,7 @@
 	```python
 	name = input("What is your name?")
 	my_number = 0
-
+	
 	# Loop as long as "my_number" is less than 100
 	while(my_number < 100):
 		# Ask the user for a number
