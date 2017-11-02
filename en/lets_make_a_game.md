@@ -1,12 +1,12 @@
 1. So now you've learned about:
-     * *print* statements: Talking to our user
+     * `print` statements: Talking to our user
      * variables: A way to get our program to remember and update values
      * strings: Pieces of text
-     * *input*: How to get information from our user
+     * `input`: How to get information from our user
      * maths: How to do maths with a number
      * integers: Numbers for doing maths with  
-     * *if* statements: Do something based on a condition
-     * *while* loops: Keep doing something until a condition isn't true
+     * `if` statements: Do something based on a condition
+     * `while` loops: Keep doing something until a condition isn't true
 
 2. Try using these to make this game:
      * There is a number (an integer), between 1 and 9, that the program picks in secret

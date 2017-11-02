@@ -15,9 +15,9 @@ Websites like YouTube and Instagram are built using Python.
     * Open your text editor and create a new file. Save it into the folder you just made and call it *beginner_sushi.py*.
     * Open the command line on your computer (called *command prompt* on Windows and *Terminal* on Mac) and navigate to your folder using the *cd* command.
     * Once you've opened your folder in the command line, you're ready to try running this blank file with this command, entered into the command line:
-        ```bash
-            python3 beginner_sushi.py
-        ```
+    ```bash
+    python3 beginner_sushi.py
+    ```
         If this has worked, you shouldn't see any messages when you run the command.
     > ### Running a program
     In later cards, you'll be asked to *run* a program.   

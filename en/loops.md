@@ -1,13 +1,13 @@
-1. You can ask the user to pick a number now, check if it's the right size and, if it isn't, tell them it's not. What if you wanted it to keep going until you got an answer that was the right size? You could write *if* statements inside *if* statements, but what if the user still doesn't give you the right size of number?
-
-	You need a way to ask the question over and over until you get the right kind of answer. The way to do this in computer programming is called a **loop**. You're going to use one called the *while* loop.
-2. A *while* loop is a bit like an *if* statement: it has code inside it that only runs if the condition in brackets is true. The difference is that a *while* loop runs over and over, until its condition is false. You have to make sure that there is always a way out of your *while* loops, or they'll run forever! It looks like this:
-	```python
-	while(my_number < 100):
-	    my_number = input("Hello "+name+" please pick a number that's bigger than 100")
-		my_number = int(my_number)
-	```
-3. Now add a *while* loop to your program.
+1. You can ask the user to pick a number now, check if it's the right size and, if it isn't, tell them it's not. What if you wanted it to keep going until you got an answer that was the right size? You could write `if` statements inside `if` statements, but what if the user still doesn't give you the right size of number?
+  
+  You need a way to ask the question over and over until you get the right kind of answer. The way to do this in computer programming is called a **loop**. You're going to use one called the `while` loop.
+2. A `while` loop is a bit like an `if` statement: it has code inside it that only runs if the condition in brackets is true. The difference is that a `while` loop runs over and over, until its condition is false. You have to make sure that there is always a way out of your `while` loops, or they'll run forever! It looks like this:
+```python
+while(my_number < 100):
+	my_number = input("Hello "+name+" please pick a number that's bigger than 100")
+	my_number = int(my_number)
+```
+3. Now add a `while` loop to your program.
 
 	```python
 	name = input("What is your name?")
