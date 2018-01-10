@@ -2,11 +2,11 @@
   
   You need a way to ask the question over and over until you get the right kind of answer. The way to do this in computer programming is called a **loop**. You're going to use one called the `while` loop.
 2. A `while` loop is a bit like an `if` statement: it has code inside it that only runs if the condition in brackets is true. The difference is that a `while` loop runs over and over, until its condition is false. You have to make sure that there is always a way out of your `while` loops, or they'll run forever! It looks like this:
-```python
-while(my_number < 100):
-	my_number = input("Hello "+name+" please pick a number that's bigger than 100")
-	my_number = int(my_number)
-```
+	```python
+	while(my_number < 100):
+		my_number = input("Hello "+name+" please pick a number that's bigger than 100")
+		my_number = int(my_number)
+	```
 3. Now add a `while` loop to your program.
 
 	```python
