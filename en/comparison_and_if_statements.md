@@ -28,7 +28,7 @@ The double-equals is used to **compare** variables, because the single equals is
         print("That's a big number!")
     ```
 
-Now run it and try entering different numbers, above and below 100 to see what happens. What would happen if you entered 100 exactly?
+    Now run it and try entering different numbers, above and below 100 to see what happens. What would happen if you entered 100 exactly?
 4. You can also combine conditions, using `and` and `or`. So this let's you write code like:
     ```python
     if(my_number >= 20 and my_number < 30):
